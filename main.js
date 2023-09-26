@@ -42,5 +42,5 @@ console.log(myVariable.charAt(Math.ceil(Math.random()*myVariable.length)));
 const mynumber= "1234567890"
 console.log(mynumber.charAt(Math.floor(Math.random()*mynumber.length)));
 //if statements
-    
+Hiding the last seen    
                                                                                                                                           
